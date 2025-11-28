@@ -1,4 +1,4 @@
-# pytest fixtures — compact guide
+# pytest fixtures
 
 This repository contains simple SQLAlchemy models and pytest tests. This compact README explains the test setup, basic fixture concepts, and how to run the test suite.
 
